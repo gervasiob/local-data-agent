@@ -1,0 +1,6 @@
+{
+  "name": "Local Data Agent",
+  "description": "Un agente local-first para analizar bases de datos y carpetas locales de archivos con seguridad, privacidad y comandos de voz.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
